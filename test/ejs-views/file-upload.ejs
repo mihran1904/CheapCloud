@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include('./partials/head.ejs') %>
+<body>
+  <%- include('./partials/nav.ejs') %>
+  <form id="post-form" method="post" action="/fileUpload-post" enctype="multipart/form-data">
+    <div class="form-info">
+      <label>file title
+        <input type="text" name="title">
+      </label>
+      <label>Author
+        <input type="text" name="author">
+      </label>
+    </div>
+    <label>
+        <input type="file" name="uploadFile" id="">
+    </label>
+    <div class="form-button">
+      <input type="submit" value="Upload">
+    </div>
+  </form>
+</body>
+</html>

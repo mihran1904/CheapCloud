@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include('./partials/head.ejs') %>
+<body>
+  <%- include('./partials/nav.ejs') %>
+  <form id="post-form" method="post" action="/fileDownload-post" enctype="multipart/form-data">
+      <label for="title">file name title </label>
+        <input type="text" name="title">
+      <input type="submit" value="Download">
+  </form>
+</body>
+</html>
