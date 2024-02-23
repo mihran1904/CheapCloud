@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-34b2c4160426457980c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "variables_usage_exmpl",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "variables_usage_exmpl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variables_usage_exmpl-Debug-77cf71e1faf799889a48.json",
+					"name" : "variables_usage_exmpl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "variables_usage_exmpl_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variables_usage_exmpl_autogen-Debug-990b16fc8791001dc506.json",
+					"name" : "variables_usage_exmpl_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "variables_usage_exmpl_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variables_usage_exmpl_autogen_timestamp_deps-Debug-bebf8ea05fb8934e837f.json",
+					"name" : "variables_usage_exmpl_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/miran/Desktop/cheapcloud/tasks/task2/build-variables_usage_exmpl-Desktop_Qt_6_5_2_GCC_64bit-Debug",
+		"source" : "/home/miran/Desktop/cheapcloud/tasks/task2/variables_usage_exmpl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

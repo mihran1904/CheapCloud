@@ -1,7 +1,7 @@
 # ninja log v5
 1	63	1708527217470119235	hello_world_autogen/mocs_compilation.cpp	376ee43acbc9dd42
 41	64	1708525653312704378	CMakeFiles/hello_world.dir/hello_world_autogen/mocs_compilation.cpp.o	25b4dad1a6f7698c
-1	248	1708527218573545729	build.ninja	1a6dc197b6875a0d
+1	248	1708529050024302434	build.ninja	1a6dc197b6875a0d
 1	63	1708527217470119235	/home/miran/Desktop/cheapcloud/tasks/task1/build-hello_world-Desktop_Qt_6_5_2_GCC_64bit-Debug/hello_world_autogen/mocs_compilation.cpp	376ee43acbc9dd42
 1	63	1708527217470119235	hello_world_autogen/timestamp	376ee43acbc9dd42
 1	63	1708527217470119235	/home/miran/Desktop/cheapcloud/tasks/task1/build-hello_world-Desktop_Qt_6_5_2_GCC_64bit-Debug/hello_world_autogen/timestamp	376ee43acbc9dd42

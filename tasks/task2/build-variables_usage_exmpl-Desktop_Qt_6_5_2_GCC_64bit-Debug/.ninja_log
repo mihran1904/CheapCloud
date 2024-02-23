@@ -1,0 +1,16 @@
+# ninja log v5
+0	40	1708707057555921115	variables_usage_exmpl_autogen/timestamp	2ee6146abf8ab91
+0	40	1708707057555921115	variables_usage_exmpl_autogen/mocs_compilation.cpp	2ee6146abf8ab91
+0	40	1708707057555921115	/home/miran/Desktop/cheapcloud/tasks/task2/build-variables_usage_exmpl-Desktop_Qt_6_5_2_GCC_64bit-Debug/variables_usage_exmpl_autogen/timestamp	2ee6146abf8ab91
+0	40	1708707057555921115	/home/miran/Desktop/cheapcloud/tasks/task2/build-variables_usage_exmpl-Desktop_Qt_6_5_2_GCC_64bit-Debug/variables_usage_exmpl_autogen/mocs_compilation.cpp	2ee6146abf8ab91
+40	70	1708707057587921764	CMakeFiles/variables_usage_exmpl.dir/variables_usage_exmpl_autogen/mocs_compilation.cpp.o	559bf0d4b949dc38
+0	29	1708707145316226535	variables_usage_exmpl_autogen/timestamp	2ee6146abf8ab91
+0	29	1708707145316226535	variables_usage_exmpl_autogen/mocs_compilation.cpp	2ee6146abf8ab91
+0	29	1708707145316226535	/home/miran/Desktop/cheapcloud/tasks/task2/build-variables_usage_exmpl-Desktop_Qt_6_5_2_GCC_64bit-Debug/variables_usage_exmpl_autogen/timestamp	2ee6146abf8ab91
+0	29	1708707145316226535	/home/miran/Desktop/cheapcloud/tasks/task2/build-variables_usage_exmpl-Desktop_Qt_6_5_2_GCC_64bit-Debug/variables_usage_exmpl_autogen/mocs_compilation.cpp	2ee6146abf8ab91
+1	26	1708707439018255591	variables_usage_exmpl_autogen/timestamp	2ee6146abf8ab91
+1	26	1708707439018255591	variables_usage_exmpl_autogen/mocs_compilation.cpp	2ee6146abf8ab91
+1	26	1708707439018255591	/home/miran/Desktop/cheapcloud/tasks/task2/build-variables_usage_exmpl-Desktop_Qt_6_5_2_GCC_64bit-Debug/variables_usage_exmpl_autogen/timestamp	2ee6146abf8ab91
+1	26	1708707439018255591	/home/miran/Desktop/cheapcloud/tasks/task2/build-variables_usage_exmpl-Desktop_Qt_6_5_2_GCC_64bit-Debug/variables_usage_exmpl_autogen/mocs_compilation.cpp	2ee6146abf8ab91
+27	4025	1708707443014700554	CMakeFiles/variables_usage_exmpl.dir/main.cpp.o	5d76641fb8a5798f
+4027	4398	1708707443382741436	variables_usage_exmpl	94f1397f8f6b522
