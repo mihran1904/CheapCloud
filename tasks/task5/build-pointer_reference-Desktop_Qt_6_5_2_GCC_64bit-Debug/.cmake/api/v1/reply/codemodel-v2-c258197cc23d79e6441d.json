@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-82b7dd4e1e8e7231fe2f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pointer_reference",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "pointer_reference::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointer_reference-Debug-1afe2da7bae9f1ba91a3.json",
+					"name" : "pointer_reference",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointer_reference_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointer_reference_autogen-Debug-bc40f5e7035b24a47566.json",
+					"name" : "pointer_reference_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointer_reference_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointer_reference_autogen_timestamp_deps-Debug-3413dc86f5ad8870978d.json",
+					"name" : "pointer_reference_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/miran/Desktop/cheapcloud/tasks/task5/build-pointer_reference-Desktop_Qt_6_5_2_GCC_64bit-Debug",
+		"source" : "/home/miran/Desktop/cheapcloud/tasks/task5/pointer_reference"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
